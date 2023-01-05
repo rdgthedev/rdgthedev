@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 - 👋 Olá, me chamo Rodrigo Ferreira<br>
-- 👀 Meu interesse pela área da tecnologia vem desde de criança, que foi quando eu tive meu primeiro contato  com o mundo tech e com o    passar do tempo fui criando cada vez mais interesse.<br>
-- 🌱 Atualmente eu estou estudando .NET e MySQL<br>
+- 👀 Faço faculdade de Análise e Desenvolvimento de Sistemas .<br>
+- 🌱 Atualmente estou estudando .NET e MySQL<br>
 
 
 ## 🌐 Redes Sociais:
