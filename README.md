@@ -1,5 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 <h1 align="center">Olá 👋, Eu sou o Rodrigo Ferreira</h1>
 <h3 align="center">Sobre mim</h3>
 <p align="center">Sou desenvolvedor back-end com mais de um ano de experiência prática, focado em solucionar problemas utilizando tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e buscando me desenvolver cada vez no mundo da tecnologia.🛠️</p>
