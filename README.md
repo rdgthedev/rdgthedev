@@ -20,7 +20,6 @@
 <br><br>
 
 
-- 🌱 Estou estudando **Back-end**
 
 - 👨‍💻 Todos os meus projetos em [meus repositórios](https://github.com/rdgthedev?tab=repositories)
 
