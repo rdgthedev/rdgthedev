@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Rodrigo Ferreira</h1>
 <h3 align="center">Sobre mim</h3>
-<p align="center">Sou desenvolvedor back-end com mais de um ano de experiência prática, focado em solucionar problemas utilizando tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e buscando me desenvolver cada vez no mundo da tecnologia.🛠️</p>
+<p align="center">Sou desenvolvedor back-end com mais de um ano de experiência prática, focado em solucionar problemas utilizando tecnologia. Atualmente minha stack principal é .NET, mas estou sempre buscando melhorar e conhecer novos caminhos para me desenvolver cada vez no mundo da tecnologia.🛠️</p>
 
 <br>
 
